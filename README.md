@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Napoleon Leal no Napoleon Bonaparte
+Napoleon Leal not Napoleon Bonaparte
